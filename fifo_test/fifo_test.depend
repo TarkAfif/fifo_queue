@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1700830267 source:c:\users\afif\desktop\claval\e-timer-35\common\stm\fifo\fifo_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fifo.h"
+
+1700827903 source:c:\users\afif\desktop\claval\e-timer-35\common\stm\fifo\src\fifo.c
+	"fifo.h"
+
+1700827233 c:\users\afif\desktop\claval\e-timer-35\common\stm\fifo\inc\fifo.h
+	<stdint.h>
+
